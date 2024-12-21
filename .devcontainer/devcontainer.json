@@ -1,0 +1,4 @@
+{
+  "name": "AscendC Container",
+  "image": "ghcr.io/nn-complr-tech/ascendc-community-cann:8.0.rc2.2.beta1"
+}
